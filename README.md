@@ -1,1 +1,1 @@
-# mlp-practice
+# Implementation of MLP to classify MNIST
